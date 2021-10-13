@@ -2,7 +2,7 @@ This example shows a linked bubble map and temporal histogram of migrant deaths.
 
 The data is from [themigrantsfiles.com](http://www.themigrantsfiles.com/), exported to [CSV format](https://en.wikipedia.org/wiki/Comma-separated_values) from this [Google Doc](https://docs.google.com/spreadsheets/d/1YNqIzyQfEn4i_be2GGWESnG2Q80E_fLASffsXdCOftI/edit#gid=686199832) on September 14, 2016. Each row of the table is represented as a red circle on the map. Unfortunately, the data collection project was discontinued in July 2016.
 
-Uses123
+Uses1234
 
  * [Leaflet](http://leafletjs.com/)
  * [D3](http://d3js.org)
